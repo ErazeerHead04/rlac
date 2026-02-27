@@ -58,7 +58,7 @@ This division of labor matters: Voyant helps find patterns worth testing; R help
 
 ## Findings Part 1: Houses as Institutional Grammar (Canon baseline vs transformation)
 
-![Figure 1. Bubblelines—Hogwarts houses across Rowling texts](assets/images/Houses.png)
+![Figure 1. Bubblelines—Hogwarts houses across Rowling texts](assets/images/"Houses.png")
 
 **Figure 1** uses Bubblelines to track the four Hogwarts houses. The most immediate pattern is **Gryffindor dominance**: “gryffindor” appears more frequently and more consistently across the Rowling books in this corpus than the other houses, which have visibly smaller and less frequent bubbles.
 
@@ -201,5 +201,6 @@ Temple, Emily. “How Many Books Will You Read Before You Die?” Course reading
 Voyant Tools. https://voyant-tools.org/
 
 R (tidytext / tidyverse) via posit.cloud notebooks.
+
 
 **Ready For Grading**
