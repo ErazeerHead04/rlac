@@ -105,7 +105,7 @@ Also visible is a common limitation of co-occurrence networks: high-frequency co
 
 ## Qualitative Layer: Is Snape “Evil” or “Good”? (Bubblelines + context logic)
 
-![Figure 4. Bubblelines visualization comparing frequency and distribution of snape across four moral-semantic terms: dark, love, fear, and lily. Horizontal timeline bars show where each term clusters within the Rowling canon corpus, with bubble size and density indicating relative frequency. Dark appears consistently across all texts with high density, while lily and love concentrate heavily in later books, particularly in Half-Blood Prince and Deathly Hallows. Fear shows moderate, scattered distribution. The visualization supports the argument that Snape's moral legibility shifts from atmosphere-driven (dark, fear) in early texts to relationship-anchored (lily, love) in later texts, revealing how narrative timing structures character interpretation rather than direct moral labeling.](assets/images/mix_snape.png)
+![Figure 4. Bubblelines visualization comparing frequency and distribution of snape across four moral-semantic terms: dark, love, fear, and lily.](assets/images/mix_snape.png)
 
 To address the moral-legibility claim, I used Bubblelines to compare **snape*** with **dark***, **fear**, **love***, and **lily** across the Rowling books in this corpus.
 
