@@ -1,8 +1,8 @@
 ---
 title: "Assignment 1 - Institution, Identity, and Moral Legibility: Distant Reading Snape Across Canon and Fanfiction"
 date: 2026-02-27
-categories: [assignment-1, distant-reading, voyant, r]
-tags: [HarryPotter, fanfiction, Voyant, tidytext, Snape]
+categories: [Assignment-1]
+tags: [HarryPotter, fanfiction, House, Gryffindor, Slytherin, Snape]
 ---
 
 ## Introduction
