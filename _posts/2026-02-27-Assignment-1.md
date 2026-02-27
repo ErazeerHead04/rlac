@@ -58,7 +58,7 @@ This division of labor matters: Voyant helps find patterns worth testing; R help
 
 ## Findings Part 1: Houses as Institutional Grammar (Canon baseline vs transformation)
 
-![Figure 1. Bubblelines—Hogwarts houses across Rowling texts](assets/images/"Houses.png")
+![Figure 1. Bubblelines—Hogwarts houses across Rowling texts](/assets/images/Houses.png)
 
 **Figure 1** uses Bubblelines to track the four Hogwarts houses. The most immediate pattern is **Gryffindor dominance**: “gryffindor” appears more frequently and more consistently across the Rowling books in this corpus than the other houses, which have visibly smaller and less frequent bubbles.
 
@@ -68,7 +68,7 @@ So Gryffindor isn’t just a personality type — it’s also a storytelling str
 
 At the same time, the *absence* is analytically useful. Ravenclaw and Hufflepuff appear comparatively muted. This supports a long-standing reading of Hogwarts as a structurally unequal institution: it recognizes four houses formally but distributes narrative attention unevenly.
 
-![Figure 2. Bubblelines showing Hogwarts house frequency across Rowling canon texts and fanfiction works, with larger bubbles indicating higher frequency and clustered distribution suggesting narrative emphasis patterns](assets/images/mix_house.png)
+![Figure 2. Bubblelines showing Hogwarts house frequency across Rowling canon texts and fanfiction works, with larger bubbles indicating higher frequency and clustered distribution suggesting narrative emphasis patterns](/assets/images/mix_house.png)
 
 The mixed corpus also reveals a noticeable shift in house emphasis within fanfiction. In Witchdragon’s *Dragonheart Caravan*, Slytherin emerges as the second most discussed house overall and, within the fanfiction texts specifically, becomes the most frequently referenced house. This contrasts with the Gryffindor dominance observed in Rowling’s canon and suggests a redistribution of narrative attention. Slytherin is traditionally associated with ambition, cunning, and strategic thinking, traits often positioned in opposition to Gryffindor’s emphasis on bravery and moral directness. This opposition forms a central structural tension in the series, where Gryffindor and Slytherin function as symbolic counterparts representing competing value systems.
 
@@ -79,7 +79,7 @@ This shift in emphasis is closely tied to the figure of Severus Snape, a Slyther
 
 ## Findings Part 2: Character Salience and Narrative Focus (Trends)
 
-![Figure 3. Trends—major character terms across the Rowling corpus](assets/images/characters.png)
+![Figure 3. Trends—major character terms across the Rowling corpus](/assets/images/characters.png)
 
 In **Figure 2**, “harry*” dominates across all documents, which is expected given focalization and protagonist-centered narration. But the more interesting pattern is **how the supporting characters shift**:
 
@@ -92,7 +92,7 @@ A key methodological point: Trends provides relative frequency, not moral evalua
 
 ## Findings Part 3: Networked Power—Harry, Dumbledore, Snape, Voldemort (Links)
 
-![Figure 4. Links—co-occurrence network for Harry, Dumbledore, Snape, Voldemort, Malfoy](assets/images/links.png)
+![Figure 4. Links—co-occurrence network for Harry, Dumbledore, Snape, Voldemort, Malfoy](/assets/images/links.png)
 
 The **Links** panel visualizes co-occurrence structure: which terms tend to appear near each other, forming a network. In **Figure 3**, *harry* is the largest node and the densest connector, which fits protagonist focalization. But two features matter more than size:
 
@@ -105,7 +105,7 @@ Also visible is a common limitation of co-occurrence networks: high-frequency co
 
 ## Qualitative Layer: Is Snape “Evil” or “Good”? (Bubblelines + context logic)
 
-![Figure 4. Bubblelines visualization comparing frequency and distribution of snape across four moral-semantic terms: dark, love, fear, and lily.](assets/images/mix_snape.png)
+![Figure 4. Bubblelines visualization comparing frequency and distribution of snape across four moral-semantic terms: dark, love, fear, and lily.](/assets/images/mix_snape.png)
 
 To address the moral-legibility claim, I used Bubblelines to compare **snape*** with **dark***, **fear**, **love***, and **lily** across the Rowling books in this corpus.
 
@@ -204,3 +204,4 @@ R (tidytext / tidyverse) via posit.cloud notebooks.
 
 
 **Ready For Grading**
+
