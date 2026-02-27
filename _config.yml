@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmmed Razee"
   avatar : "/assets/images/Razee.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi, I am Ahmmed, an NYUAD student and I'm gonna post some cool designs and post random stuffs once this course is done. Don't say that to my Professor :p"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ErazeerHead04"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
