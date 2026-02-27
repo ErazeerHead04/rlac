@@ -64,22 +64,22 @@ This division of labor matters: Voyant helps find patterns worth testing; R help
 
 Interpretively, this is not just “Gryffindor is talked about most.” It suggests something stronger: **house affiliation functions as narrative infrastructure**. Houses are not merely labels; they are a stable grammar for conflict and belonging, especially early in the series where the school organizes identity into formal categories. Not to mention Harry was from Gryffindor house. In the series, Gryffindor functions as a kind of moral baseline. The house is narratively positioned as heroic and central, which reinforces its dominance in story focus. However, this framing also reveals institutional imbalance, other houses receive less narrative interiority.
 
-So Gryffindor isn’t just a personality type — it’s also a storytelling structure. It signals to readers who is likely to act, who is likely to lead, and who is likely to be framed as morally legible.
+So Gryffindor isn’t just a personality type, it’s also a storytelling structure. It signals to readers who is likely to act, who is likely to lead, and who is likely to be framed as morally legible.
 
 At the same time, the *absence* is analytically useful. Ravenclaw and Hufflepuff appear comparatively muted. This supports a long-standing reading of Hogwarts as a structurally unequal institution: it recognizes four houses formally but distributes narrative attention unevenly.
 
 ![Figure 2. Bubblelines showing Hogwarts house frequency across Rowling canon texts and fanfiction works, with larger bubbles indicating higher frequency and clustered distribution suggesting narrative emphasis patterns](https://erazeerhead04.github.io/rlac/assets/images/mix_house.png)
 
-The mixed corpus also reveals a noticeable shift in house emphasis within fanfiction. In Witchdragon’s *Dragonheart Caravan*, Slytherin emerges as the second most discussed house overall and, within the fanfiction texts specifically, becomes the most frequently referenced house. This contrasts with the Gryffindor dominance observed in Rowling’s canon and suggests a redistribution of narrative attention. Slytherin is traditionally associated with ambition, cunning, and strategic thinking, traits often positioned in opposition to Gryffindor’s emphasis on bravery and moral directness. This opposition forms a central structural tension in the series, where Gryffindor and Slytherin function as symbolic counterparts representing competing value systems.
+The mixed corpus also reveals a noticeable shift in house emphasis within fanfiction. In Witchdragon’s ***Dragonheart Caravan***, Slytherin emerges as the second most discussed house overall and, within the fanfiction texts specifically, becomes the most frequently referenced house. This contrasts with the Gryffindor dominance observed in Rowling’s canon and suggests a redistribution of narrative attention. Slytherin is traditionally associated with ambition, cunning, and strategic thinking, traits often positioned in opposition to Gryffindor’s emphasis on bravery and moral directness. This opposition forms a central structural tension in the series, where Gryffindor and Slytherin function as symbolic counterparts representing competing value systems.
 
-This shift in emphasis is closely tied to the figure of Severus Snape, a Slytherin character whose moral ambiguity complicates the binary opposition between the two houses. While Gryffindor is narratively framed as heroic and morally transparent, Slytherin—and particularly Snape—embodies strategic ambiguity, secrecy, and institutional complexity. By foregrounding Slytherin more prominently, fanfiction often reinterprets the traditional Gryffindor–Slytherin divide, challenging the series’ moral hierarchy and exploring alternative perspectives on loyalty, authority, and ethical action.
+This shift in emphasis is closely tied to the figure of Severus Snape, a Slytherin character whose moral ambiguity complicates the binary opposition between the two houses. While Gryffindor is narratively framed as heroic and morally transparent, Slytherin and particularly Snape embodies strategic ambiguity, secrecy, and institutional complexity. By foregrounding Slytherin more prominently, fanfiction often reinterprets the traditional Gryffindor–Slytherin divide, challenging the series’ moral hierarchy and exploring alternative perspectives on loyalty, authority, and ethical action.
 
 **How this becomes a canon–fandom question:** fanfiction often repairs this imbalance by redistributing affiliation (e.g., expanding Ravenclaw/Hufflepuff interiority, or making Slytherin belonging more complex). In the R section, I operationalize this as a measurable test: do fandom texts increase relative frequency of under-attended houses, or do they decrease house-talk entirely in favor of other belonging vocabularies?
 
 
 ## Findings Part 2: Character Salience and Narrative Focus (Trends)
 
-![Figure 3. Trends—major character terms across the Rowling corpus](https://erazeerhead04.github.io/rlac/assets/images/characters.png)
+![Figure 3. Trends: major character terms across the Rowling corpus](https://erazeerhead04.github.io/rlac/assets/images/characters.png)
 
 In **Figure 2**, “harry*” dominates across all documents, which is expected given focalization and protagonist-centered narration. But the more interesting pattern is **how the supporting characters shift**:
 
@@ -87,7 +87,7 @@ In **Figure 2**, “harry*” dominates across all documents, which is expected 
 - **Snape** rises compared to early canon, reflecting how his narrative function expands: from antagonist-teacher to ambiguous operative.
 - **Voldemort** also changes in relative frequency: rather than a steady presence, he intensifies as the series becomes war-oriented rather than school-mystery oriented.
 
-A key methodological point: Trends provides relative frequency, not moral evaluation. Increased “snape*” does not mean Snape becomes “good”; it means the text increasingly requires him as a narrative hinge. That distinction—*frequency is not valuation*—is central to the ethical caution Ted Underwood raises about distant reading: quantitative clarity can produce interpretive overconfidence if we forget what the metric actually measures.
+A key methodological point: Trends provides relative frequency, not moral evaluation. Increased “snape” does not mean Snape becomes “good”; it means the text increasingly requires him as a narrative hinge. That distinction *frequency is not valuation* is central to the ethical caution Ted Underwood raises about distant reading: quantitative clarity can produce interpretive overconfidence if we forget what the metric actually measures.
 
 
 ## Findings Part 3: Networked Power—Harry, Dumbledore, Snape, Voldemort (Links)
@@ -109,21 +109,21 @@ The Mandala visualization shows how key terms like Harry, Snape, and Voldemort c
 
 ![Figure 4. Bubblelines visualization comparing frequency and distribution of snape across four moral-semantic terms: dark, love, fear, and lily.](https://erazeerhead04.github.io/rlac/assets/images/mix_snape.png)
 
-To address the moral-legibility claim, I used Bubblelines to compare **snape*** with **dark***, **fear**, **love***, and **lily** across the Rowling books in this corpus.
+To address the moral-legibility claim, I used Bubblelines to compare **Snape*** with **dark***, **fear**, **love***, and **lily** across the Rowling books in this corpus.
 
 Three patterns stand out:
 
 1. **Snape is not evenly distributed across the series.** He becomes more prominent in later books, which is consistent with narrative reveal structure: as the series approaches its end, Rowling must “spend” withheld information and reposition readers’ beliefs.
-2. **Love and Lily intensify late.** The *late clustering* of “lily” and higher visibility of “love*” near the later books is consistent with the series’ retroactive explanation strategy: Snape’s motivation becomes legible through a relational key (Lily) rather than through institutional role alone (professor/spymaster).
-3. **Dark and fear persist across books, but do not settle the moral question.** “dark*” and “fear” appear broadly, which suggests they function as ambient genre vocabulary (war, threat, danger) rather than uniquely “Snape-coded” terms.
+2. **Love and Lily intensify late.** The *late clustering* of “lily” and higher visibility of “love” near the later books is consistent with the series’ retroactive explanation strategy: Snape’s motivation becomes legible through a relational key (Lily) rather than through institutional role alone (professor/spymaster).
+3. **Dark and fear persist across books, but do not settle the moral question.** “dark” and “fear” appear broadly, which suggests they function as ambient genre vocabulary (war, threat, danger) rather than uniquely “Snape-coded” terms.
 
 So, is Snape portrayed as evil or good? **The distant-reading answer is: neither—at least not directly.** What the data supports is a different claim:
 
-> Snape’s moral status is managed through *timing and adjacency*: early books allow “Snape” to circulate without explanatory anchors; later books increase the density of relational anchors (“lily,” “love*”) that make a “good” interpretation narratively plausible.
+> Snape’s moral status is managed through *timing and adjacency*: early books allow “Snape” to circulate without explanatory anchors; later books increase the density of relational anchors (“lily,” “love”) that make a “good” interpretation narratively plausible.
 
 This is exactly where distant reading must be paired with interpretive discipline. Frequency and distribution show the *architecture of emphasis*, not the moral truth-value of a character.
 
-In the R section below, I make this more precise by measuring **words that occur near “snape”** (a local context window) and comparing whether that neighborhood is more strongly weighted toward threat vocabulary (e.g., dark, fear) or relational vocabulary (e.g., love, lily) across canon vs fandom.
+In the R section below, I make this more precise by measuring **words that occur near “Snape”** (a local context window) and comparing whether that neighborhood is more strongly weighted toward threat vocabulary (e.g., dark, fear) or relational vocabulary (e.g., love, lily) across canon vs fandom.
 
 
 ## Why Fanfiction Matters Here
@@ -135,38 +135,38 @@ This reinforces the core comparative claim of the assignment: fandom is not abse
 
 ### R Findings: Snape’s moral neighborhood in canon and fandom
 
-R was used to formalize what Voyant suggested visually: that Snape’s moral “readability” is managed through patterns of adjacency rather than direct moral labeling. Instead of asking whether Snape is “good” or “evil” in an abstract sense, the R workflow tested a narrower linguistic question: **which moral or relational terms tend to appear in the same textual environments as “snape”?**
+R was used to formalize what Voyant suggested visually: that Snape’s moral “readability” is managed through patterns of adjacency rather than direct moral labeling. Instead of asking whether Snape is “good” or “evil” in an abstract sense, the R workflow tested a narrower linguistic question: **which moral or relational terms tend to appear in the same textual environments as “Snape”?**
 
 #### 1) Document-level association (pairwise correlations)
 
 Across the corpus, the strongest document-level association for Snape is with **dark**:
 
-- **snape ↔ dark**: correlation **0.888**
-- **snape ↔ kill**: correlation **0.747**
-- **snape ↔ cruel**: correlation **0.211**
-- **snape ↔ fear**: correlation **0.121**
-- **snape ↔ love**: correlation **0.0613**
+- **Snape ↔ dark**: correlation **0.888**
+- **Snape ↔ kill**: correlation **0.747**
+- **Snape ↔ cruel**: correlation **0.211**
+- **Snape ↔ fear**: correlation **0.121**
+- **Snape ↔ love**: correlation **0.0613**
 
 The most surprising result is that **“evil” does not track with Snape**:
 
-- **snape ↔ evil**: correlation **–0.0366** (slightly negative)
+- **Snape ↔ evil**: correlation **–0.0366** (slightly negative)
 
 Similarly, the relational anchors that dominate late-series interpretation are not strongly aligned at the document level:
 
-- **snape ↔ lily**: correlation **–0.198**
-- **snape ↔ protect**: correlation **–0.201**
-- **snape ↔ loyal**: correlation **–0.150**
+- **Snape ↔ lily**: correlation **–0.198**
+- **Snape ↔ protect**: correlation **–0.201**
+- **Snape ↔ loyal**: correlation **–0.150**
 
 **Interpretation.**  
 At the scale of entire documents, Snape is statistically “closer” to the vocabulary of darkness and lethal stakes than to explicit moral labels (“evil”) or explicit virtue terms (“loyal,” “protect”). This supports a key literary point: **Rowling rarely needs to call Snape “evil” to make him *feel* morally suspect.** Suspicion is built through atmosphere terms (“dark”) and plot pressure terms (“kill”), which are widespread in late-series conflict.
 
-Just as importantly, the weak/negative association with “lily” and “love” at the document level does *not* contradict your Voyant Bubblelines finding. It reveals a methodological fact: **document-level correlations are blunt instruments**. “Lily” can be extremely concentrated in one portion of one book (especially late), while remaining rare overall—making it crucial for interpretation but not dominant in whole-document statistics.
+Just as importantly, the weak/negative association with “lily” and “love” at the document level does *not* contradict your Voyant Bubblelines finding. It reveals a methodological fact: **document-level correlations are blunt instruments**. “Lily” can be extremely concentrated in one portion of one book (especially late), while remaining rare overall making it crucial for interpretation but not dominant in whole document statistics.
 
 This is a direct example of Ted Underwood’s warning: the cleanest numeric signal is not always the most interpretively meaningful. A small lexical signal can still control a reader’s interpretation if it is placed strategically.
 
 #### 2) Why I also computed a local context window
 
-Because document-level correlation compresses entire books into a single vector, it can miss *where* meaning is produced. That is why the second R step builds a true token index and constructs a **±8-token window** around each occurrence of “snape.” This approach targets the question that matters most for moral legibility:
+Because document-level correlation compresses entire books into a single vector, it can miss *where* meaning is produced. That is why the second R step builds a true token index and constructs a **±8-token window** around each occurrence of “Snape.” This approach targets the question that matters most for moral legibility:
 
 > When “snape” appears, what words tend to appear immediately near it?
 
