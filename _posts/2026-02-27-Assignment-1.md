@@ -117,11 +117,11 @@ Three patterns stand out:
 2. **Love and Lily intensify late.** The *late clustering* of “lily” and higher visibility of “love” near the later books is consistent with the series’ retroactive explanation strategy: Snape’s motivation becomes legible through a relational key (Lily) rather than through institutional role alone (professor/spymaster).
 3. **Dark and fear persist across books, but do not settle the moral question.** “dark” and “fear” appear broadly, which suggests they function as ambient genre vocabulary (war, threat, danger) rather than uniquely “Snape-coded” terms.
 
-So, is Snape portrayed as evil or good? **The distant-reading answer is: neither—at least not directly.** What the data supports is a different claim:
+So, is Snape portrayed as evil or good? **The distant-reading answer is: neither at least not directly.** What the data supports is a different claim:
 
 > Snape’s moral status is managed through *timing and adjacency*: early books allow “Snape” to circulate without explanatory anchors; later books increase the density of relational anchors (“lily,” “love”) that make a “good” interpretation narratively plausible.
 
-This is exactly where distant reading must be paired with interpretive discipline. Frequency and distribution show the *architecture of emphasis*, not the moral truth-value of a character.
+This is exactly where distant reading must be paired with interpretive discipline. Frequency and distribution show the *architecture of emphasis*, not the moral truth value of a character.
 
 In the R section below, I make this more precise by measuring **words that occur near “Snape”** (a local context window) and comparing whether that neighborhood is more strongly weighted toward threat vocabulary (e.g., dark, fear) or relational vocabulary (e.g., love, lily) across canon vs fandom.
 
@@ -174,7 +174,7 @@ This windowed method aligns better with the claims made from Voyant Bubblelines:
 
 
 
-## Reflection: what these methods reveal—and what they cannot
+## Reflection: what these methods reveal and what they cannot
 
 This project shows how distant reading helps reveal patterns of attention and narrative emphasis that are difficult to notice through close reading alone. Voyant and R make visible how institutional language, character frequency, and lexical distribution structure meaning across a large corpus. Rather than producing interpretation directly, these methods help identify where interpretation should focus.
 
