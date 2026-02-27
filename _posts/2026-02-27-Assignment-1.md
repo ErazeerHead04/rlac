@@ -202,3 +202,4 @@ Voyant Tools. https://voyant-tools.org/
 
 R (tidytext / tidyverse) via posit.cloud notebooks.
 
+**Ready For Grading**
