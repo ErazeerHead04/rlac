@@ -2,6 +2,8 @@ main:
   - title: "Assignment Posts"
     url: /posts/
   - title: "Responses"
+    url: /responses/
+  - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
