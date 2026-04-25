@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assignment 2 - Style vs Content: Comparing Stylo and TF-IDF in a Science Fiction Corpus"
-date: 2026-04-28
+date: 2026-04-25
 categories: [Assignment-2]
 tags: [ScienceFiction, ProjectGutenberg, Stylo, TFIDF, DistantReading, Stylometry]
 ---
