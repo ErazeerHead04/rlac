@@ -1,10 +1,10 @@
 ---
+layout: post
 title: "Assignment 2 - Style vs Content: Comparing Stylo and TF-IDF in a Science Fiction Corpus"
 date: 2026-04-28
 categories: [Assignment-2]
 tags: [ScienceFiction, ProjectGutenberg, Stylo, TFIDF, DistantReading, Stylometry]
 ---
-
 ## Introduction
 
 This project compares two computational methods, Stylo and TF-IDF, using a corpus of eighteen science fiction texts from Project Gutenberg. The authors include Leigh Brackett, Philip K. Dick, Henry Kuttner, Andre Norton, H. G. Wells, and Marion Zimmer Bradley.
