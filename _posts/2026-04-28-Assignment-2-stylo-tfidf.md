@@ -18,7 +18,7 @@ The first method I used was Stylo, which analyzes patterns in the most frequent 
 
 ### Cluster Analysis (100 MFW)
 
-![Stylo Cluster 100 MFW](/assets/images/assignment2/stylo-100mfw.png)
+![Stylo Cluster 100 MFW](/assets/images/stylo-100mfw.png)
 
 At 100 MFW, the clustering already shows strong author signals. Philip K. Dick’s texts cluster tightly together, suggesting a consistent writing style. Andre Norton’s texts also form a clear group. This indicates that Stylo is effectively capturing stylistic consistency.
 
@@ -28,7 +28,7 @@ However, not all authors behave the same way. Brackett and Kuttner texts appear 
 
 ### Cluster Analysis (500 MFW)
 
-![Stylo Cluster 500 MFW](/assets/images/assignment2/stylo-500mfw.png)
+![Stylo Cluster 500 MFW](/assets/images/stylo-500mfw.png)
 
 At 500 MFW, the clustering becomes slightly more refined but also more complex. Dick and Norton remain stable, while Brackett, Kuttner, and Zimmer Bradley show more overlap.
 
@@ -38,7 +38,7 @@ One important observation is that H. G. Wells’s *The Salvaging of Civilization
 
 ### Bootstrap Consensus Tree
 
-![Stylo Consensus Tree](/assets/images/assignment2/stylo-consensus.png)
+![Stylo Consensus Tree](/assets/images/stylo-consensus.png)
 
 The consensus tree reinforces these patterns. It shows that while some authors cluster reliably, the corpus as a whole shares stylistic similarities. This suggests that genre conventions—especially mid-century science fiction—play a role alongside individual author style.
 
@@ -46,9 +46,9 @@ The consensus tree reinforces these patterns. It shows that while some authors c
 
 ### PCA (Stylo)
 
-![Stylo PCA 100](/assets/images/assignment2/stylo-pca-100.png)
+![Stylo PCA 100](/assets/images/stylo-pca-100.png)
 
-![Stylo PCA 1000](/assets/images/assignment2/stylo-pca-1000.png)
+![Stylo PCA 1000](/assets/images/stylo-pca-1000.png)
 
 The PCA visualizations highlight outliers more clearly. *The Salvaging of Civilization* is consistently far removed, confirming its stylistic difference. *Jackie Sees a Star* is also unusually distant, suggesting variation within Zimmer Bradley’s own writing.
 
@@ -62,7 +62,7 @@ Unlike Stylo, TF-IDF emphasizes words that are distinctive within each text. Thi
 
 ### TF-IDF PCA (100 MFW)
 
-![TF-IDF 100](/assets/images/assignment2/tfidf-100.png)
+![TF-IDF 100](/assets/images/tfidf-100.png)
 
 At 100 MFW, the texts are widely spread out. Even at this level, clear thematic separations emerge. Wells’s texts tend toward the right, while Dick’s texts appear lower and to the left.
 
@@ -70,9 +70,9 @@ At 100 MFW, the texts are widely spread out. Even at this level, clear thematic 
 
 ### TF-IDF PCA (300 & 500 MFW)
 
-![TF-IDF 300](/assets/images/assignment2/tfidf-300.png)
+![TF-IDF 300](/assets/images/tfidf-300.png)
 
-![TF-IDF 500](/assets/images/assignment2/tfidf-500.png)
+![TF-IDF 500](/assets/images/tfidf-500.png)
 
 As the number of words increases, clusters become clearer. Norton’s texts group in the lower-right region, reflecting shared vocabulary related to space travel and planetary exploration. Dick’s texts remain grouped in a different region, likely reflecting themes of war, machines, and instability.
 
@@ -80,9 +80,9 @@ As the number of words increases, clusters become clearer. Norton’s texts grou
 
 ### TF-IDF PCA (2000 & 3000 MFW)
 
-![TF-IDF 2000](/assets/images/assignment2/tfidf-2000.png)
+![TF-IDF 2000](/assets/images/tfidf-2000.png)
 
-![TF-IDF 3000](/assets/images/assignment2/tfidf-3000.png)
+![TF-IDF 3000](/assets/images/tfidf-3000.png)
 
 At higher MFW levels, the clustering stabilizes. Wells’s texts remain strongly separated on the right, especially *The Salvaging of Civilization*, which consistently appears as an extreme outlier. This reflects its distinct vocabulary, which is more philosophical and political than narrative.
 
