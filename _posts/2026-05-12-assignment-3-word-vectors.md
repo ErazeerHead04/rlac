@@ -1,6 +1,6 @@
 ---
 title: "Assignment 3 - Machines, Minds, and Planets: Exploring Word Vector Models in a Science Fiction Corpus"
-date: 2026-05-12
+date: 2026-05-10
 categories: [Assignment-3]
 tags: [ScienceFiction, ProjectGutenberg, Word2Vec, WordVectors, DistantReading, PositCloud]
 ---
